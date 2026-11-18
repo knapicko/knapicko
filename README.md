@@ -89,7 +89,6 @@ Desenvolvedor focado em **Análise de Dados e Sistemas (BDA)**, com experiência
         <img src="https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
       </a>
     </td>
-    <td width="50%" valign="top">
          <td width="50%" valign="top">
       <h3>Conserta Já - Dashboard (FATEC)</h3>
       <p>Dashboard do Projeto Conserta Já para gerenciamento e monitoramento.</p>
